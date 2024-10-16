@@ -1,0 +1,33 @@
+site_name: OpenLayers Tutorial
+nav:
+  - MkDocs: "home.md"
+  - Tutorials:
+      - GitHUB: "GitHub.md"
+      - WebGIS: "webgis.md"
+      - Component Display: "display component.md"
+  - Co-Projects: "introduction.md"
+  - Contact: "contact.md"
+  - License: "license.md"
+
+  - Routes: "routes.md"
+  - Controls: "controls.md"
+  - Overlays: "overlays.md"
+  - Events: "events.md"
+  - commands: "commands.md"
+
+theme:
+  name: mkdocs
+
+extra_css:
+  - "css/custom.css"
+
+markdown_extensions:
+  - toc:
+      permalink: True
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences

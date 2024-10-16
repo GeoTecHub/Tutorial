@@ -1,0 +1,73 @@
+/* Change the color of h1 headings */
+h1 {
+    color: #1E90FF; /* DodgerBlue */
+    font-size: 1.5em !important; /* Change to desired size */
+    font-weight: bold;
+}
+
+/* Change the color of h2 headings */
+h2 {
+    color: #295ef1; /* LimeGreen */
+    font-size: 1.2em !important; /* Change to desired size */
+    font-weight: bold;
+}
+
+
+/* Change the color of h3 headings */
+h3 {
+    color: #992dcf; /* OrangeRed */
+    font-size: .9em !important; /* Change to desired size */
+    font-weight: bold;
+}
+
+/* Change the color of h4 headings */
+h4 {
+    color: #0fb18e; /* BlueViolet */
+    font-size: .9em !important; /* Change to desired size */
+    font-weight: bold;
+}
+
+/* Change the color of h5 headings */
+h5 {
+    color: #DAA520; /* GoldenRod */
+}
+
+/* Change the color of h6 headings */
+h6 {
+    color: #DC143C; /* Crimson */
+}
+/* Change the font size of the site title */
+/* Change the font size and color of the site name */
+.navbar-brand {
+    font-size: .9em !important; /* Change to desired size */
+    color: #f2f1f0 !important; /* Change to desired color */
+}
+
+/* Change the font size of the navigation items */
+.md-nav__link {
+    font-size: .7em; /* Change to desired size */
+}
+
+/* Change the font size of the main content */
+.md-typeset {
+    font-size: .5em; /* Change to desired size */
+}
+
+/* Change the font size of the sidebar */
+.md-sidebar {
+    font-size: 1em; /* Change to desired size */
+}
+
+/* Change the font size of the footer */
+.md-footer {
+    font-size: .8em; /* Change to desired size */
+}
+
+/* Change the width of the sidebar */
+.col-md-3 {
+    width: 20% !important; /* Adjust the percentage as needed */
+}
+/* Change the margin of the container */
+.container {
+    margin: 1px; /* Adjust the values as needed */
+}
