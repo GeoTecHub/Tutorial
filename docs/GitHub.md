@@ -43,3 +43,4 @@ What This Does:
 The git reset --hard origin/thanuji command resets your current branch (GitMilin) to match the latest commit on the thanuji branch, effectively discarding all your local changes.
 The --force option in the push command is necessary because a reset rewrites the commit history, and you'll need to force push to update the remote repository.
 This approach will leave your GitMilin branch exactly as the thanuji branch without retaining any of your previous changes.
+You can also with with gitDesktop versition 
